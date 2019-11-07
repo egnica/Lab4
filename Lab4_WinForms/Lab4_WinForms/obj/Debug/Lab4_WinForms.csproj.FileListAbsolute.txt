@@ -1,0 +1,9 @@
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\bin\Debug\Lab4_WinForms.exe.config
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\bin\Debug\Lab4_WinForms.exe
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\bin\Debug\Lab4_WinForms.pdb
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.csprojResolveAssemblyReference.cache
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.Hello.resources
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.Properties.Resources.resources
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.csproj.GenerateResource.Cache
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.exe
+c:\users\egnnica\documents\visual studio 2017\Projects\Lab4_WinForms\Lab4_WinForms\obj\Debug\Lab4_WinForms.pdb
